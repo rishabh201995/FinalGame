@@ -1,0 +1,12 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="ScreenChanger">
+			<method name="SceneChange"/>
+			<method name="SceneChange"/>
+			<method name="SceneChange"/>
+			<method name="SceneChange"/>
+			<method name="SceneChange"/>
+			<method name="SceneChange"/>
+		</type>
+	</assembly>
+</linker>
